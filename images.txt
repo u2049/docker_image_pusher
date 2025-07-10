@@ -7,3 +7,7 @@ postgres:13
 redis:6
 valkey/valkey:8
 minio/minio
+eclipse-mosquitto:2
+teslamate/grafana:latest
+postgres:17
+teslamate/teslamate:latest
